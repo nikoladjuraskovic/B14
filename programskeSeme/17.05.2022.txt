@@ -1,0 +1,10 @@
+﻿06:00|Jutarnji dnevnik|Informativni program|~/Slike/info.jpg
+08:25|Urgentni centar|Serija|~/Slike/serija.jpg
+10:00|Tom i Dzeri|Crtani film|~/Slike/crtani.jpg
+12:00|Dnevnik|Informativni program|~/Slike/info.jpg
+13:30|Hari Poter|Film|~/Slike/film.jpg
+16:00|Beogradska hronika|Informativni program|~/Slike/info.jpg
+19:05|Slagalica|Kviz|~/Slike/kviz.jpg
+20:00|Potera|Kviz|~/Slike/kviz.jpg
+22:00|Lajanje na zvezde|Film|~/Slike/film.jpg
+23:45|Tenis|Sport|~/Slike/sport.jpg

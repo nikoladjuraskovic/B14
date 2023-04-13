@@ -1,0 +1,9 @@
+﻿08:00|Jutarnji dnevnik|Informativni program|~/Slike/info.jpg
+10:30|Sundjer Bob|Crtani film|~/Slike/crtani.jpg
+11:00|Tajne vinove loze|Serija|~/Slike/serija.jpg
+13:23|Nepomirljivi|Film|~/Slike/film.jpg
+17:00|Tenis|Sport|~/Slike/sport.jpg
+19:30|Dnevnik 1|Informativni program|~/Slike/info.jpg
+21:30|Stigni me ako mozes|Kviz|~/Slike/kviz.jpg
+23:00|Dnevnik 2|Informativni program|~/Slike/info.jpg
+23:30|Tenis|Sport|~/Slike/sport.jpg

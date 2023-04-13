@@ -1,0 +1,5 @@
+﻿17:00|Tenis|Sport|~/Slike/sport.jpg
+19:30|Dnevnik 1|Informativni program|~/Slike/info.jpg
+21:30|Kosarka|Sport|~/Slike/sport.jpg
+23:00|Dnevnik 2|Informativni program|~/Slike/info.jpg
+23:30|Tenis|Sport|~/Slike/sport.jpg
