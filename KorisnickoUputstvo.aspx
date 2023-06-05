@@ -25,9 +25,12 @@
                     <h3>Uputstvo</h3>
                     
 
-                    Veb aplikacija tv stanice za prikazivanje dnevne programske sheme. Izborom datuma i tipa emisija iz
+                    Veb aplikacija tv stanice za prikazivanje dnevne programske sheme. Veb aplikacija ima 3 stranice.
+                    Na stranici Program izborom datuma i tipa emisija iz
                     padajućih listi i klikom na dugme Pronadji korisniku se tabelarno ispusuje dnevna programska shema
-                    prema izabranim parametrima. Veb aplikacija je rađena u ASP.NET Web Forms tehnologiji(.NET Framework 4.8).
+                    prema izabranim parametrima. Na stranici Kontakt se nalazi forma putem koje korisnici mogu poslati komentare i pitanja.
+                    Na stranici korisnicko uputstvo se nalazi uputstvo veb aplikacije.
+
 
                    
                 </div>  
